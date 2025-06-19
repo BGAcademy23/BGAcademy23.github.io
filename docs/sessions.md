@@ -87,33 +87,33 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
-| [Checking for cobionts in public genomes using BlobToolKit](https://bga23.org/btk-view) | Sujai Kumar | 4 Sep 08:00-09:00<br/>~~4 Sep 20:00-21:00~~<br/>11 Sep 17:00-18:00 |
-| [The TreeVal Pipeline: Generating evidence for manual curation - GITPOD](https://bga23.org/treeval-curation) | Genome Reference Informatics Team, Sanger | 8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
-| [Assembling Mitogenomes from PacBio HiFi reads using MitoHiFi - GITPOD](https://bga23.org/MitoHiFi) | Marcela Uliano-Silva | 8 Sep 13:00-15:00 | 
-| [Visualising genome assembly cobionts by running BlobToolKit locally - GITPOD](https://bga23.org/btk-cli) | Sujai Kumar, Rich Challis | 11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
-| [Understanding k-mers and ploidy using Smudgeplot - GITPOD](https://bga23.org/smudgeplot) | Kamil Jaron | 12 Sep 14:00-16:00 |
-| [Starting a comparative genome study from CNGBdb: datasets, analysis platform, and spatial transcriptomics database](https://bga23.org/cngbdb) | Xiaofeng Wei | 13 Sep 09:00-11:00 |
-| [Searching and Downloading Genome Data using NCBI Datasets - GITPOD](https://bga23.org/ncbidatasets) | Nuala O'Leary, Mirian T. N. Tsuchiya, Eric Cox | 14 Sep 17:00-18:00 | 
-| [Compare whole genome assembly alignments using NCBI’s Comparative Genome Viewer (CGV)](https://bga23.org/ncbi-cgv) | Sanjida Rangwala | 14 Sep 18:00-19:00 |
-| [Genome profiling using Genomescope - GITPOD](https://bga23.org/genomescope) | Lucía Campos-Domínguez, Kamil Jaron | 15 Sep 09:00-11:00 |
-| [Introduction to Manual Curation - HiC and JBrowse - GITPOD](https://bga23.org/manual-curation) | Genome Reference Informatics Team, Sanger | 15 Sep 11:00-13:00<br/>19 Sep 11:00-13:00 |
-| [OMA and OMArk for homology exploration and gene annotation quality control - GITPOD](https://bga23.org/oma-omark) | Yannis Nevers, Sina Majidian | 15 Sep 16:00-18:00<br/>21 Sep 08:00-10:00<br/> |
-| [Introduction to NextFlow for Genomics - GITPOD](https://bga23.org/nextflow-genomics) | Solenne Correard | 19 Sep 19:00-21:00<br/>20 Sep 23:00-01:00<br/>26 Sep 16:00-18:00 |
-| [BUSCO - from QC to gene prediction and phylogenomics - GITPOD](https://bga23.org/busco) | Rob Waterhouse | 20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
-| [Classifying Transposable Elements with Earl Grey TE - GITPOD](https://bga23.org/earlgrey-te) | Tobias Baril | 21 Sep 12:00-14:00 |
-| [Assembling Genomes with the VGP-Galaxy Pipeline](https://bga23.org/vgpgalaxy) | Delphine Lariviere | 21 Sep 17:00-19:00 |
-| [Pangenome Assembly and Assessment using Minigraph and Bandage - GITPOD](https://bga23.org/pangenome){ : target="_blank" } | Zachary Cohen | 21 Sep 20:00-22:00 |
-| [Gene prediction with BRAKER3 - GITPOD](https://bga23.org/B3) | Katharina Hoff | 22 Sep 08:00-10:00</br>25 Sep 12:00-14:00 |
-| [Gfastar: a tool suite to assist genome assembly - GITPOD](https://bga23.org/gfastar) | Giulio Formenti, Cassidy Johnson | 22 Sep 14:00-16:00 |
-| [Scalable telomere-to-telomere assembly with hifiasm - GITPOD](https://bga23.org/hifiasm-telomere) | Haoyu Cheng | 22 Sep 17:00-18:00 |
-| [ENA Standards and Submission - GITPOD](https://bga23.org/ena-ebi-stands) | Maira Ihsan | 25 Sep 09:00-11:00<br/>26 Sep 18:00-20:00 |
-| [Querying genome metadata and sequencing projects using GoaT](https://bga23.org/goat) | Cibele Sotero-Caio | ~~6 Sep 16:00-18:00~~<br/>25 Sep 15:00-17:00 |
-| [ENA data retrieval and EMBL-EBI's Biodiversity Portals](https://bga23.org/enaebi-data/) | Alexey Sokolov, Joana Pauperio | 26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
-| [Assess genome assemblies with Merqury - GITPOD](https://bga23.org/merqury) | Arang Rhie | 26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
-| [EASEL (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation](https://bga23.org/easel-annotation) | Jill Wegrzyn, Cynthia Webster, Vidya Vuruputoor, Karl Fetter | 27 Sep 13:00-15:00<br/>29 Sep 03:00-05:00 |
-| [Annotating genomes the Ensembl way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges!](https://bga23.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | 28 Sep 12:00-14:00 |
-| [Annotating genomes the Ensembl way: Hands-on - From RNAseq reads to gene models - GITPOD](https://bga23.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | 28 Sep 14:00-16:00 |
-| [Aligning whole genomes using Cactus - GITPOD](https://bga23.org/cactus) | Chiara Bortoluzzi, Thiago A.L. Genez | 29 Sep 16:00-18:00 |
+| [Checking for cobionts in public genomes using BlobToolKit](https://bga23.ylog.org/btk-view) | Sujai Kumar | 4 Sep 08:00-09:00<br/>~~4 Sep 20:00-21:00~~<br/>11 Sep 17:00-18:00 |
+| [The TreeVal Pipeline: Generating evidence for manual curation - GITPOD](https://bga23.ylog.org/treeval-curation) | Genome Reference Informatics Team, Sanger | 8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
+| [Assembling Mitogenomes from PacBio HiFi reads using MitoHiFi - GITPOD](https://bga23.ylog.org/MitoHiFi) | Marcela Uliano-Silva | 8 Sep 13:00-15:00 | 
+| [Visualising genome assembly cobionts by running BlobToolKit locally - GITPOD](https://bga23.ylog.org/btk-cli) | Sujai Kumar, Rich Challis | 11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
+| [Understanding k-mers and ploidy using Smudgeplot - GITPOD](https://bga23.ylog.org/smudgeplot) | Kamil Jaron | 12 Sep 14:00-16:00 |
+| [Starting a comparative genome study from CNGBdb: datasets, analysis platform, and spatial transcriptomics database](https://bga23.ylog.org/cngbdb) | Xiaofeng Wei | 13 Sep 09:00-11:00 |
+| [Searching and Downloading Genome Data using NCBI Datasets - GITPOD](https://bga23.ylog.org/ncbidatasets) | Nuala O'Leary, Mirian T. N. Tsuchiya, Eric Cox | 14 Sep 17:00-18:00 | 
+| [Compare whole genome assembly alignments using NCBI’s Comparative Genome Viewer (CGV)](https://bga23.ylog.org/ncbi-cgv) | Sanjida Rangwala | 14 Sep 18:00-19:00 |
+| [Genome profiling using Genomescope - GITPOD](https://bga23.ylog.org/genomescope) | Lucía Campos-Domínguez, Kamil Jaron | 15 Sep 09:00-11:00 |
+| [Introduction to Manual Curation - HiC and JBrowse - GITPOD](https://bga23.ylog.org/manual-curation) | Genome Reference Informatics Team, Sanger | 15 Sep 11:00-13:00<br/>19 Sep 11:00-13:00 |
+| [OMA and OMArk for homology exploration and gene annotation quality control - GITPOD](https://bga23.ylog.org/oma-omark) | Yannis Nevers, Sina Majidian | 15 Sep 16:00-18:00<br/>21 Sep 08:00-10:00<br/> |
+| [Introduction to NextFlow for Genomics - GITPOD](https://bga23.ylog.org/nextflow-genomics) | Solenne Correard | 19 Sep 19:00-21:00<br/>20 Sep 23:00-01:00<br/>26 Sep 16:00-18:00 |
+| [BUSCO - from QC to gene prediction and phylogenomics - GITPOD](https://bga23.ylog.org/busco) | Rob Waterhouse | 20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
+| [Classifying Transposable Elements with Earl Grey TE - GITPOD](https://bga23.ylog.org/earlgrey-te) | Tobias Baril | 21 Sep 12:00-14:00 |
+| [Assembling Genomes with the VGP-Galaxy Pipeline](https://bga23.ylog.org/vgpgalaxy) | Delphine Lariviere | 21 Sep 17:00-19:00 |
+| [Pangenome Assembly and Assessment using Minigraph and Bandage - GITPOD](https://bga23.ylog.org/pangenome){ : target="_blank" } | Zachary Cohen | 21 Sep 20:00-22:00 |
+| [Gene prediction with BRAKER3 - GITPOD](https://bga23.ylog.org/B3) | Katharina Hoff | 22 Sep 08:00-10:00</br>25 Sep 12:00-14:00 |
+| [Gfastar: a tool suite to assist genome assembly - GITPOD](https://bga23.ylog.org/gfastar) | Giulio Formenti, Cassidy Johnson | 22 Sep 14:00-16:00 |
+| [Scalable telomere-to-telomere assembly with hifiasm - GITPOD](https://bga23.ylog.org/hifiasm-telomere) | Haoyu Cheng | 22 Sep 17:00-18:00 |
+| [ENA Standards and Submission - GITPOD](https://bga23.ylog.org/ena-ebi-stands) | Maira Ihsan | 25 Sep 09:00-11:00<br/>26 Sep 18:00-20:00 |
+| [Querying genome metadata and sequencing projects using GoaT](https://bga23.ylog.org/goat) | Cibele Sotero-Caio | ~~6 Sep 16:00-18:00~~<br/>25 Sep 15:00-17:00 |
+| [ENA data retrieval and EMBL-EBI's Biodiversity Portals](https://bga23.ylog.org/enaebi-data/) | Alexey Sokolov, Joana Pauperio | 26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
+| [Assess genome assemblies with Merqury - GITPOD](https://bga23.ylog.org/merqury) | Arang Rhie | 26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
+| [EASEL (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation](https://bga23.ylog.org/easel-annotation) | Jill Wegrzyn, Cynthia Webster, Vidya Vuruputoor, Karl Fetter | 27 Sep 13:00-15:00<br/>29 Sep 03:00-05:00 |
+| [Annotating genomes the Ensembl way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges!](https://bga23.ylog.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | 28 Sep 12:00-14:00 |
+| [Annotating genomes the Ensembl way: Hands-on - From RNAseq reads to gene models - GITPOD](https://bga23.ylog.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | 28 Sep 14:00-16:00 |
+| [Aligning whole genomes using Cactus - GITPOD](https://bga23.ylog.org/cactus) | Chiara Bortoluzzi, Thiago A.L. Genez | 29 Sep 16:00-18:00 |
 
 ## Calendar
 

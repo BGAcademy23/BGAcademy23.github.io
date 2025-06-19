@@ -66,7 +66,7 @@ This page has been updated on 2023-09-10. Older information can be found [here](
         - Part 1: part1.md
         - Part 2:
             - Nested Link: links.md
-        - BGA23: https://bga23.org
+        - BGA23: https://bga23.ylog.org
     ```
 
 ??? info "**If your session needs Gitpod**"
